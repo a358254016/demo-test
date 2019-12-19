@@ -12,7 +12,8 @@ class DemoApplicationTests {
     private UserService userService;
     @Test
     void contextLoads() {
-        userService.addUser();
+
+
     }
 
 }
