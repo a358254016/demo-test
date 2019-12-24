@@ -10,5 +10,7 @@ import io.swagger.annotations.Api;
  **/
 @Api(tags = "订单接口")
 public class OrderController {
-
+    public static void main(String[] args) {
+        System.out.println(123);
+    }
 }
