@@ -7,4 +7,7 @@ package com.example.demo.controller;
  * @create: 2019-12-03 12:07
  **/
 public class ShopController {
+    public static void main(String[] args) {
+        
+    }
 }
