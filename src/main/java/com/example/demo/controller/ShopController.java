@@ -9,5 +9,6 @@ package com.example.demo.controller;
 public class ShopController {
     public static void main(String[] args) {
         System.out.println(1);
+        System.out.println(2);
     }
 }
